@@ -1,0 +1,29 @@
+---
+abstract: "INGY's Alternate version of Sex"
+author:
+  - 'Ingy döt Net'
+build_requires:
+  ExtUtils::MakeMaker: 6.36
+configure_requires:
+  ExtUtils::MakeMaker: 6.36
+distribution_type: module
+dynamic_config: 1
+generated_by: 'Module::Install version 1.06'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+module_name: Alt::Sex::INGY
+name: Alt-Sex-INGY
+no_index:
+  directory:
+    - inc
+    - t
+resources:
+  homepage: https://github.com/ingydotnet/Sex/tree
+  license: http://dev.perl.org/licenses/
+  repository:
+    type: git
+    url: git://github.com/ingydotnet/Sex.git
+    web: https://github.com/ingydotnet/Sex/tree
+version: 0.01
