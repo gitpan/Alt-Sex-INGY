@@ -19,6 +19,8 @@ no_index:
   directory:
     - inc
     - t
+  file:
+    - lib/Sex.pm
 resources:
   homepage: https://github.com/ingydotnet/Sex/tree
   license: http://dev.perl.org/licenses/
@@ -26,4 +28,4 @@ resources:
     type: git
     url: git://github.com/ingydotnet/Sex.git
     web: https://github.com/ingydotnet/Sex/tree
-version: 0.01
+version: 0.02
