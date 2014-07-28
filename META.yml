@@ -18,10 +18,12 @@ no_index:
     - t
     - xt
     - example
+  file:
+    - lib/Sex.pm
 requires:
   perl: v5.8.1
 resources:
   bugtracker: https://github.com/ingydotnet/alt-sex-ingy-pm/issues
   homepage: https://github.com/ingydotnet/alt-sex-ingy-pm
   repository: https://github.com/ingydotnet/alt-sex-ingy-pm.git
-version: '0.04'
+version: '0.05'

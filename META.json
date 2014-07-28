@@ -19,6 +19,9 @@
          "t",
          "xt",
          "example"
+      ],
+      "file" : [
+         "lib/Sex.pm"
       ]
    },
    "prereqs" : {
@@ -50,6 +53,6 @@
          "web" : "https://github.com/ingydotnet/alt-sex-ingy-pm"
       }
    },
-   "version" : "0.04"
+   "version" : "0.05"
 }
 

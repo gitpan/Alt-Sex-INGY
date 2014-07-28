@@ -1,3 +1,6 @@
+0.05 Mon Jul 28 07:22:55 PDT 2014
+ - Fix typo in Meta nometaindex => metanoindex
+
 0.04 Mon Jul 28 07:14:27 PDT 2014
  - Switch to Zilla-Dist
 
