@@ -5,7 +5,7 @@ use strict qw(vars subs);
 srand;  # More exciting this way.
 
 use vars qw($VERSION);
-$VERSION = '0.69';
+$VERSION = '0.04';
 
 my @Grunts = ('Does it get bigger?',
               'I thought eight inches was longer than that.',
@@ -104,13 +104,11 @@ computer.  Please be sure your programs are Safe before they have Sex.
     package Trojan;
     use Sex qw(Safe Sex);
 
-
 =head1 AUTHORS
 
 Ingy 'The Alternative to Schwern' döt Net <ingy@cpan.org>
 
 Michael 'The Porn King of CMU' Schwern  <schwern@pobox.com>
-
 
 =head1 SEE ALSO
 
@@ -122,8 +120,6 @@ Michael 'The Porn King of CMU' Schwern  <schwern@pobox.com>
 
 'The Fly' (1953)
 
-
 =cut
-
 
 return 'Harry balls anyone he wants!';

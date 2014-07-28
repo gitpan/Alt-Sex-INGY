@@ -1,31 +1,27 @@
 ---
 abstract: "INGY's Alternate version of Sex"
 author:
-  - 'Ingy döt Net'
-build_requires:
-  ExtUtils::MakeMaker: 6.36
+  - 'Ingy döt Net <ingy@cpan.org>'
+build_requires: {}
 configure_requires:
-  ExtUtils::MakeMaker: 6.36
-distribution_type: module
-dynamic_config: 1
-generated_by: 'Module::Install version 1.06'
+  ExtUtils::MakeMaker: '6.30'
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.132830'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
-  version: 1.4
-module_name: Alt::Sex::INGY
+  version: '1.4'
 name: Alt-Sex-INGY
 no_index:
   directory:
     - inc
     - t
-  file:
-    - lib/Sex.pm
+    - xt
+    - example
+requires:
+  perl: v5.8.1
 resources:
-  homepage: https://github.com/ingydotnet/Sex/tree
-  license: http://dev.perl.org/licenses/
-  repository:
-    type: git
-    url: git://github.com/ingydotnet/Sex.git
-    web: https://github.com/ingydotnet/Sex/tree
-version: 0.03
+  bugtracker: https://github.com/ingydotnet/alt-sex-ingy-pm/issues
+  homepage: https://github.com/ingydotnet/alt-sex-ingy-pm
+  repository: https://github.com/ingydotnet/alt-sex-ingy-pm.git
+version: '0.04'

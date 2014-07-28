@@ -9,18 +9,25 @@ DESCRIPTION
     entities.
 
 SEE ALSO
-    *   Alt
+        *   Alt
 
-    *   Sex
+        *   Sex
 
 AUTHOR
     Ingy döt Net
 
 COPYRIGHT AND LICENSE
-    Copyright (c) 2012. Ingy döt Net.
+    Copyright 2012-2014. Ingy döt Net.
 
     This program is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
 
-    See http://www.perl.com/perl/misc/Artistic.html
+    See <http://www.perl.com/perl/misc/Artistic.html>
+
+POD ERRORS
+    Hey! The above document had some coding errors, which are explained
+    below:
+
+    Around line 36:
+        You forgot a '=back' before '=head1'
 

@@ -1,15 +1,12 @@
----
-version: 0.03
-date:    Thu Jul 26 11:03:45 PDT 2012
-changes:
-- Add utf8 pöd encöding
----
-version: 0.02
-date:    Wed Jul 25 20:50:25 PDT 2012
-changes:
-- no_index Sex.pm
----
-version: 0.01
-date:    Wed Jul 25 16:52:30 PDT 2012
-changes:
-- Initial release.
+0.04 Mon Jul 28 07:14:27 PDT 2014
+ - Switch to Zilla-Dist
+
+0.03 Thu Jul 26 11:03:45 PDT 2012
+ - Add utf8 pod encoding
+
+0.02 Wed Jul 25 20:50:25 PDT 2012
+ - no_index Sex.pm
+
+0.01 Wed Jul 25 16:52:30 PDT 2012
+ - Initial release.
+
