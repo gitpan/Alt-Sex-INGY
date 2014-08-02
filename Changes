@@ -1,3 +1,7 @@
+0.06 Sat Aug  2 10:02:10 PDT 2014
+ - Fix Copyright years.
+ - Remove cruft doc from lib/Alt/Sex/INGY.pm
+
 0.05 Mon Jul 28 07:22:55 PDT 2014
  - Fix typo in Meta nometaindex => metanoindex
 
