@@ -10,6 +10,8 @@ README
 lib/Alt/Sex/INGY.pm
 lib/Alt/Sex/INGY.pod
 lib/Sex.pm
+lib/Sex.pod
+t/000-require-modules.t
 t/ingy.t
 t/release-pod-syntax.t
 t/test.t
